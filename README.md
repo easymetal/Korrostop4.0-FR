@@ -35,4 +35,4 @@ _© 2020 by [easymetal](https://www.easymetal.com/)_
 * vers cette page  _(https://github.com/easymetal/Korrostop4.0-FR)_: **[Images/qrFR.png](Images/qrFR.png)**
 * vers les pages Wiki  _(https://github.com/easymetal/Korrostop4.0-FR/wiki)_: **[Images/qrWiki.png](Images/qrWiki.png)**
 * vers les pages GitHub d'easymetal  _(https://github.com/easymetal)_: **[Images/qrEasymetal.png](Images/qrEasymetal.png)**
-* vers le site Web d'easymetal _(https://www.easymetal.com/)_: **[Images/qrWEB.png](Images/qrWEB.png)**
+* vers le site Web d'easymetal _(https://www.easymetal.com/fr.html)_: **[Images/qrWEB.png](Images/qrWEB.png)**
