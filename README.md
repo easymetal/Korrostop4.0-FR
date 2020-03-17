@@ -14,7 +14,7 @@ La combinaison _**d'E.KO IONISER**_ avec _**Korrostop4.0**_ est compatible avec 
 
 ## Vous trouverez ici :
 * des [informationn](../../wiki) actualisées en permanence sur **Korrostop4.0**
-* [Mises à jour](Mise-à-jour) pour le mécanisme de mise à jour par cartes SD
+* [Mises à jour](Updates) pour le mécanisme de mise à jour par cartes SD
 * [Spécifications](../../wiki) de **Korrostop4.0**
 * [Outils et code source](IntegrationSamples) pour l'automatisation avec **Korrostop4.0**
 * Pour les autres langues, voir également les [référentiels correspondants](https://github.com/easymetal?tab=repositories)
